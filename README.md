@@ -21,7 +21,7 @@
 ![alt text](https://i.ibb.co/5Kb44KK/Group-50.png)
 
 **Result**\
--SVM_RFE results in the use of 7 features giving optimal results (Fig. 2)
+-SVM_RFE results in the use of 7 features giving optimal results (Fig. 2)\
 ![alt text](https://i.ibb.co/Nj98bPQ/hasil-rfe.png)\
 -*Resampling* using SMOTE results in a total dataset of 232, 116 for each class\
 -*Hyper-parameter tuning* using GS produces the following *hyperparamter* values
