@@ -1,7 +1,7 @@
 # Hepatitis Detection 
 **Problem**\
 -Hepatitis infect many people in the world\
--This disease has relatively common symptoms so that it is prone to being underestimated by the public.
+-This disease has relatively common symptoms so that it is prone to being underestimated by the public\
 -Early detection is used to prevent the spread of hepatitis\
 
 **Solution**\
